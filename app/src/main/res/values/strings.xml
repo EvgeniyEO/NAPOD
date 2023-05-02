@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NASA_Apod</string>
+    <string name="apod_list_title">NASA APOD</string>
+    <string name="tab_item_today_title">Today</string>
+    <string name="tab_item_list_title">List</string>
+
+    <string name="empty_list_title">Empty list</string>
+    <string name="empty_list_message">Something went wrong</string>
+
+    <string name="progress_title">Loading…</string>
+    <string name="button_retry_message">Push to retry</string>
+
+    <string name="error_message_timeout">Timeout error</string>
+
+    <string name="snack_bar_error_close_button">Close</string>
+</resources>
